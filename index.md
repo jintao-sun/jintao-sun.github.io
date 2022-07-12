@@ -11,9 +11,9 @@ Email: jintao.sun[at]rice.edu
 
 **Working Papers**
 
-Demand and Supply Factors for the Gender STEM Gap (joint with [YingHua He](https://sites.google.com/site/yinghuahe/) and [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/))
+Demand and Supply Factors for the Gender STEM Gap (joint with [YingHua He](https://sites.google.com/site/yinghuahe/){:target="_blank"} and [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/){:target="_blank"}
 
 **Work in Progress**
 
-Evaluating Tuition Waiver Policy in Centralized College Admissions: Implications from Taiwan (joint with [YingHua He](https://sites.google.com/site/yinghuahe/) and [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/))
+Evaluating Tuition Waiver Policy in Centralized College Admissions: Implications from Taiwan (joint with [YingHua He](https://sites.google.com/site/yinghuahe/){:target="_blank"} and [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/)){:target="_blank"}
 Long-term Effects of Reserved Seats Policy: Evidence from China’s High School Admissions

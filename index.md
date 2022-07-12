@@ -14,7 +14,7 @@ Email: jintao.sun[at]rice.edu
 
 **Working Papers**
 
-Demand and Supply Factors for the Gender STEM Gap (joint with [YingHua He](https://sites.google.com/site/yinghuahe/){:target="_blank"} and [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/){:target="_blank"})
+Demand and Supply Factors of the STEM Gender Gap (joint with [YingHua He](https://sites.google.com/site/yinghuahe/){:target="_blank"} and [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/){:target="_blank"})
 
 **Work in Progress**
 

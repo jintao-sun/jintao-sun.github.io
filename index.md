@@ -8,7 +8,7 @@ I am a Ph.D. student in Economics at Rice University. My research interests are 
 
 Email: jintao.sun[at]rice.edu
 
-[Curriculum Vitae](./curriculum-vitae.html).
+[Curriculum Vitae](./curriculum-vitae.html)
 
 
 **Working Papers**

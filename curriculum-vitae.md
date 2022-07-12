@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<br>
+
 **Education**
 
 Ph.D. Student, Economics, Rice University, 2019 -- present

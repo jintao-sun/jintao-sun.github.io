@@ -6,10 +6,7 @@ layout: default
 
 I am a Ph.D. student in Economics at Rice University. My research interests are in Market Design, Education, and Industrial Organization.
 
-Email: jintao.sun[at]rice.edu
-
-[Curriculum Vitae](./curriculum-vitae.html)
-
+[Curriculum Vitae](./curriculum-vitae.html) | Email: jintao.sun[at]rice.edu
 
 **Working Papers**
 

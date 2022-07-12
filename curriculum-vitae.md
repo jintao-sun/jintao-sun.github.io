@@ -13,8 +13,8 @@ layout: default
 **Teaching Experience**
 
 - Teaching Assistant, Department of Economics, Rice University
-  - ECON510/STAT610 Econometrics I (1st-Year Ph.D. Core), Fall 2020
-  - ECON511/STAT611 Econometrics II (1st-Year Ph.D. Core), Spring 2021
+  - ECON510 Econometrics I (1st-Year Ph.D. Core), Fall 2020
+  - ECON511 Econometrics II (1st-Year Ph.D. Core), Spring 2021
   - ECON481 Health Economics (Undergraduate), Fall 2021
   - ECON209 Applied Econometrics (Undergraduate), Spring 2022
 - Teaching Assistant, Fuqua School of Business, Duke University

@@ -9,7 +9,7 @@ I am a Ph.D. student in Economics at Rice University. My research interests are 
 [Curriculum Vitae](./curriculum-vitae.html) 
 
 Email: {given name}.{family name} -at- rice.edu \
-Address: Kraft Hall 441, Department of Economics MS-22, Rice University, P.O. Box 1892, Houston, TX 77005
+Address: Department of Economics - MS 22, Rice University, 6100 Main St, Houston, TX 77005
 
 * * *
 

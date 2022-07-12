@@ -20,6 +20,4 @@ layout: default
 - Teaching Assistant, Fuqua School of Business, Duke University, 2016 -- 2018
   - DECISION516 Quantitative Business Analysis (Graduate), Summer 2017
 
-<br>
-<br>
 [back](./)

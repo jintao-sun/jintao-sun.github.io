@@ -5,7 +5,6 @@ layout: default
 <br/>
 <br/>
 <br/>
-<br/>
 
 I am a Ph.D. student in Economics at Rice University. 
 

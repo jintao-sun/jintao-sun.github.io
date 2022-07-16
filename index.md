@@ -6,7 +6,7 @@ Welcome to my website.
 
 My name is Jintao Sun (孙津韬). I am currently a Ph.D. student in Economics at Rice University. My research interests are in Market Design, Education, and Industrial Organization.
 
-[Curriculum Vitae](./curriculum-vitae.html) 
+[Curriculum Vitae](https://www.dropbox.com/s/32v9w4n93647nlz/Sun%2C%20Jintao_CV.pdf?dl=0){:target="_blank"} (PDF)
 
 Email: {given name}.{family name} -at- rice.edu \
 Add: Dept of Economics, Rice University, 6100 Main St, Houston, TX 77005

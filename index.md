@@ -9,7 +9,7 @@ My name is Jintao Sun (孙津韬). I am currently a Ph.D. student in Economics a
 [Curriculum Vitae](https://www.dropbox.com/s/32v9w4n93647nlz/Sun%2C%20Jintao_CV.pdf?dl=0){:target="_blank"} (PDF)
 
 Email: {given name}.{family name} -at- rice.edu \
-Add: Dept of Economics, Rice University, 6100 Main St, Houston, TX 77005
+Address: Department of Economics, Rice University, Kraft Hall for Social Sciences, 6100 Main Street, Houston, TX 77005
 
 * * *
 

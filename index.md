@@ -23,6 +23,6 @@ Evaluating Tuition Waiver Policy in Centralized University Admissions: Implicati
 
 Track Sorting in University Applications
 
-The Equilibrium Effects of School Closure on School Choice and Teacher Sorting: Evidence from NOLA Public Schools System
+A Supply and Demand Analysis of NOLA Public Schools System
 
 Speeding up Public Rental Housing Allocation in Hong Kong

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-You can find my detailed CV [here](https://www.dropbox.com/s/rzwt1c8cn13x0da/sunjintao_cv.pdf?dl=0/){:target="_blank"} (PDF).
+You can find my detailed CV [here](https://www.dropbox.com/s/rzwt1c8cn13x0da/sunjintao_cv.pdf?dl=0){:target="_blank"} (PDF).
 
 **Education**
 

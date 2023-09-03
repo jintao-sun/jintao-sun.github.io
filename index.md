@@ -19,8 +19,8 @@ Demand and Supply Factors of the STEM Gender Gap (joint with [YingHua He](https:
 
 **Work in Progress**
 
-Evaluating Tuition Waiver Policy in Centralized University Admissions: Implications from Taiwan
+"Right-sizing" the School District: A Supply and Demand Analysis of New Orleans Public Schools System (joint with [Douglas Harris](https://www.douglasnharris.com/){:target="_blank"} and Rui Zeng)
 
-Track Sorting in University Applications: Implications from Taiwan
+Twenty Years' Evolution of Vocational Secondary Education in Mexico City (joint with Victor Delgado and Rui Zeng)
 
-"Right-sizing" the School District: A Supply and Demand Analysis of NOLA Public Schools System
+Field Experiment in China on Improving Students' Mental Health (joint with [Qinyou Hu](https://sites.google.com/view/qinyouhu/home){:target="_blank"} and Yiming Xia)

@@ -23,4 +23,4 @@ Demand and Supply Factors of the STEM Gender Gap (joint with [YingHua He](https:
 
 Twenty Years' Evolution of Vocational Secondary Education in Mexico City (joint with Victor Delgado and Rui Zeng)
 
-Field Experiment in China on Improving Students' Mental Health (joint with [Qinyou Hu](https://sites.google.com/view/qinyouhu/home){:target="_blank"} and Yiming Xia)
+Field Experiment in China on Improving Student Mental Health (joint with [Qinyou Hu](https://sites.google.com/view/qinyouhu/home){:target="_blank"} and Yiming Xia)

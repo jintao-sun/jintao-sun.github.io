@@ -19,6 +19,6 @@ Demand and Supply Factors of the STEM Gender Gap (joint with [YingHua He](https:
 
 **Work in Progress**
 
-Affordability Constraint in School Choice (joint with Victor Delgado and Rui Zeng)
+School Choice with Latent Affordability Constraints (joint with Victor Delgado and Rui Zeng)
 
 "Right-sizing" the School District: A Supply and Demand Analysis of New Orleans Public Schools System (joint with [Douglas Harris](https://www.douglasnharris.com/){:target="_blank"} and Rui Zeng)

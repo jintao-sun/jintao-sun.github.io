@@ -15,7 +15,7 @@ Address: Department of Economics, Rice University, Kraft Hall for Social Science
 
 **Working Papers**
 
-Demand and Supply Factors of the STEM Gender Gap (joint with [YingHua He](https://sites.google.com/site/yinghuahe/){:target="_blank"} and [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/){:target="_blank"})
+STEM Gender Gap in Higher Education: Demand, Supply, and Better Policies (joint with [YingHua He](https://sites.google.com/site/yinghuahe/){:target="_blank"} and [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/){:target="_blank"})
 
 **Work in Progress**
 
